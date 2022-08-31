@@ -1,0 +1,12 @@
+.button {
+    -fx-background-color:  Bisque;
+    -fx-background-insets: 1;
+    -fx-text-fill: black;
+    -fx-font-size:12px;
+
+}
+.button:hover {
+  -fx-background-color: Cornsilk; 
+  -fx-color: black;
+}
+

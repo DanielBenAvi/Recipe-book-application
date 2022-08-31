@@ -1,0 +1,15 @@
+.button {
+    -fx-background-color:  Bisque;
+    -fx-background-insets: 1.0;
+    -fx-text-fill: black;
+    -fx-font-size:24.0px;
+    -fx-background-radius: 100.0;
+
+}
+.button:hover {
+	-fx-border-width: 2.0 ; 
+  -fx-background-color: Cornsilk; 
+-fx-background-color: radial-gradient(focus-distance 0.0% , center 50.0% 50.0% , radius 100.0% , Cornsilk, white);
+  -fx-color: black;
+}
+
